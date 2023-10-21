@@ -139,10 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="args.cpp" />
+    <ClCompile Include="logger.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="render.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="args.h" />
+    <ClInclude Include="logger.h" />
     <ClInclude Include="render.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
