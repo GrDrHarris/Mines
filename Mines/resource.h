@@ -1,20 +1,33 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ 生成的包含文件。
-// 供 Resource.rc 使用
+// 供 Mines.rc 使用
 //
 #define IDB_PNG1                        101
+#define IDB_PNG_NUM0                    101
 #define IDB_PNG2                        102
+#define IDB_PNG_NUM1                    102
 #define IDB_PNG3                        103
+#define IDB_PNG_NUM2                    103
 #define IDB_PNG4                        104
+#define IDB_PNG_NUM3                    104
 #define IDB_PNG5                        105
+#define IDB_PNG_NUM4                    105
 #define IDB_PNG6                        106
+#define IDB_PNG_NUM5                    106
 #define IDB_PNG7                        107
+#define IDB_PNG_NUM6                    107
 #define IDB_PNG8                        108
+#define IDB_PNG_NUM7                    108
 #define IDB_PNG9                        109
+#define IDB_PNG_NUM8                    109
 #define IDB_PNG10                       110
+#define IDB_PNG_MINE                    110
 #define IDB_PNG11                       111
+#define IDB_PNG_FLAG                    111
 #define IDB_PNG12                       112
+#define IDB_PNG_MINE_RED                112
 #define IDB_PNG13                       113
+#define IDB_PNG_COVERED                 113
 
 // Next default values for new objects
 // 

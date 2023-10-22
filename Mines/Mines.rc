@@ -50,31 +50,31 @@ END
 // PNG
 //
 
-IDB_PNG1                PNG                     "0.png"
+IDB_PNG_NUM0            PNG                     "0.png"
 
-IDB_PNG2                PNG                     "1.png"
+IDB_PNG_NUM1            PNG                     "1.png"
 
-IDB_PNG3                PNG                     "2.png"
+IDB_PNG_NUM2            PNG                     "2.png"
 
-IDB_PNG4                PNG                     "3.png"
+IDB_PNG_NUM3            PNG                     "3.png"
 
-IDB_PNG5                PNG                     "4.png"
+IDB_PNG_NUM4            PNG                     "4.png"
 
-IDB_PNG6                PNG                     "5.png"
+IDB_PNG_NUM5            PNG                     "5.png"
 
-IDB_PNG7                PNG                     "6.png"
+IDB_PNG_NUM6            PNG                     "6.png"
 
-IDB_PNG8                PNG                     "7.png"
+IDB_PNG_NUM7            PNG                     "7.png"
 
-IDB_PNG9                PNG                     "8.png"
+IDB_PNG_NUM8            PNG                     "8.png"
 
-IDB_PNG10               PNG                     "b.png"
+IDB_PNG_MINE            PNG                     "b.png"
 
-IDB_PNG11               PNG                     "f.png"
+IDB_PNG_FLAG            PNG                     "f.png"
 
-IDB_PNG12               PNG                     "r.png"
+IDB_PNG_MINE_RED        PNG                     "r.png"
 
-IDB_PNG13               PNG                     "u.png"
+IDB_PNG_COVERED         PNG                     "u.png"
 
 #endif    // 中文(简体，中国) resources
 /////////////////////////////////////////////////////////////////////////////
